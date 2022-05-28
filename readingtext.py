@@ -1,5 +1,5 @@
 def read_file_content(filename):
-    file_content = open("story.txt", "r")
+    file_content = open("filename, "r")
     data = file_content.read()
     return data
 
